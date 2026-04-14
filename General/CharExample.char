@@ -1,0 +1,34 @@
+\\ make comments with 2 backslashes (only single line comments supported)
+patchName: update; \\ quotation marks (") or quotes (') are only necessary if the string includes any unsupported characters (starts with a number, or any weird symbols)
+version: "0.0.0.1"; \\ semicolons are necessary for seperators, however tables are handled a little differently.
+
+number1: 100; \\ numbers can be represented normally and will automatically be assumed as such, unless any other characters other than a period are present (for decimals)
+number2: operate, "10^4"; \\ any math operators must have operate before it, this is also how functions work. (syntax: function, parameters) all these functions are hardcoded
+
+table: startTbl; \\ create tables with startTbl and endTbl. indentation isnt necessary but is here for neatness.
+  value1: "yes";
+  value2: operate, "9+10";
+  value3: startTbl;
+    subVal1: 67;
+    subVal2: "this is a sub value";
+  endTbl;
+
+  value4: "no"
+endTbl;
+
+\\ after converting to luau, it should look like this
+\\ return {
+\\  patchName = "update",
+\\  version: "0.0.0.1",
+\\  number1 = 100,
+\\  number2 = 10000,
+\\  table = {
+\\    value1 = "yes",
+\\    value2 = "21" -- this is a joke, dont actually make it calculate 9+10 as 21
+\\    value3 = {
+\\      subVal1 = 67,
+\\      subVal2 = "this is a sub value"
+\\    },
+\\    value4 = "no"
+\\  }
+\\}
