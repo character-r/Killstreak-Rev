@@ -1,7 +1,3 @@
-\\  "ADDITION|";
-\\  "CHANGE|";
-\\  "FIXES|";
-\\  "REMOVAL|";
 changelog: startTbl;
   "ADDITION|say gex";
   "FIXES|test";
