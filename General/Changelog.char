@@ -5,7 +5,7 @@ changelog: startTbl;
   4:"ADDITION|Added the in-game changelog.";
   5:"ADDITION|Added the modcall menu.";
   6:"ADDITION|Added the Moderator GUI.";
-  7:"CHANGES|None.";
+  7:"CHANGE|None.";
   8:"FIXES|Fixed an issue that caused you to PlatformStand after ragdolling.";
   9:"FIXES|Fixed many issues with the mobile GUI.";
   10:"REMOVAL|None.";
