@@ -1,7 +1,9 @@
+//  "ADDITION|";
+//  "CHANGE|";
+//  "FIXES|";
+//  "REMOVAL|";
 changelog: startTbl;
-  "ADDITION|this is a test addition.";
-  "CHANGE|this is a test change.";
-  "REMOVAL|this is a test removal.";
+  "FIXES|test";
 endTbl;
 
 \\ TODO
