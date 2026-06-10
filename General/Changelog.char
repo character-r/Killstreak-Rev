@@ -1,7 +1,7 @@
-//  "ADDITION|";
-//  "CHANGE|";
-//  "FIXES|";
-//  "REMOVAL|";
+\\  "ADDITION|";
+\\  "CHANGE|";
+\\  "FIXES|";
+\\  "REMOVAL|";
 changelog: startTbl;
   "FIXES|test";
 endTbl;
