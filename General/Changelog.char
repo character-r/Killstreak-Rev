@@ -7,7 +7,8 @@ changelog: startTbl;
   6:"ADDITION|Added the Moderator GUI.";
   7:"CHANGES|None.";
   8:"FIXES|Fixed an issue that caused you to PlatformStand after ragdolling.";
-  9:"FIXES|Fixed many issues with the mobile GUI."
+  9:"FIXES|Fixed many issues with the mobile GUI.";
+  10:"REMOVAL|None.";
 endTbl;
 
 \\ TODO
