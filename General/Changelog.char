@@ -1,6 +1,6 @@
 changelog: startTbl;
-  "ADDITION|say gex";
-  "FIXES|test";
+  "ADDITION|say gex"
+  "FIXES|test"
 endTbl;
 
 \\ TODO
