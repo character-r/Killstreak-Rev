@@ -8,7 +8,8 @@ changelog: startTbl;
   7:"CHANGE|None.";
   8:"FIXES|Fixed an issue that caused you to PlatformStand after ragdolling.";
   9:"FIXES|Fixed many issues with the mobile GUI.";
-  10:"REMOVAL|None.";
+  10:"FIXES|Fixed some visual issues with Infector's glove model."
+  11:"REMOVAL|None.";
 endTbl;
 
 \\ TODO
