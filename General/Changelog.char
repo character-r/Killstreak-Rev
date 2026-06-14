@@ -1,15 +1,13 @@
 changelog: startTbl;
-  1:"ADDITION|Added the Rock Island.";
-  2:"ADDITION|Added Rock Dummies.";
-  3:"ADDITION|Added mobile and console shiftlock.";
-  4:"ADDITION|Added the in-game changelog.";
-  5:"ADDITION|Added the modcall menu.";
-  6:"ADDITION|Added the Moderator GUI.";
-  7:"CHANGE|None.";
-  8:"FIXES|Fixed an issue that caused you to PlatformStand after ragdolling.";
-  9:"FIXES|Fixed many issues with the mobile GUI.";
-  10:"FIXES|Fixed some visual issues with Infector's glove model."
-  11:"REMOVAL|None.";
+  1:"ADDITION|Added some badges";
+  2:"ADDITION|Added some gamepasses.";
+  3:"ADDITION|Added a +10 kills button.";
+  4:"ADDITION|Added some donation boards.";
+  5:"ADDITION|Added a gamepass board.";
+  6:"ADDITION|Added the Variant GUI.";
+  7:"CHANGE|Nerfed Infector.";
+  8:"FIXES|Fixed isses with unragdolling.";
+  9:"REMOVAL|Removed Herobrine.";
 endTbl;
 
 \\ TODO
