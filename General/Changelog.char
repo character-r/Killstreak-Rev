@@ -1,12 +1,12 @@
 changelog: startTbl;
-  1:"ADDITION|Added some badges";
-  2:"ADDITION|Added some gamepasses.";
-  3:"ADDITION|Added a +10 kills button.";
-  4:"ADDITION|Added some donation boards.";
-  5:"ADDITION|Added a gamepass board.";
-  6:"ADDITION|Added the Variant GUI.";
-  7:"CHANGE|Nerfed Infector.";
-  8:"FIXES|Fixed isses with unragdolling.";
+  1:"ADDITION|Added Temporal. (Timestreak Glove)";
+  2:"ADDITION|Added ragdoll on death and some death sounds.";
+  3:"ADDITION|Added 350 Killstreak Revengeance.";
+  4:"ADDITION|Added 325 Killstreak Classic.";
+  5:"ADDITION|Added the Metal Island.";
+  6:"ADDITION|Added the Metal Dummies.";
+  7:"CHANGE|None.";
+  8:"FIXES|None.";
   9:"REMOVAL|Removed Herobrine.";
 endTbl;
 
