@@ -1,12 +1,12 @@
 changelog: startTbl;
-  1:"ADDITION|Added Temporal. (Timestreak Glove)";
+  1:"ADDITION|Added rifts that can spawn around the map";
   2:"ADDITION|Added ragdoll on death and some death sounds.";
   3:"ADDITION|Added 350 Killstreak Revengeance.";
   4:"ADDITION|Added 325 Killstreak Classic.";
   5:"ADDITION|Added the Metal Island.";
   6:"ADDITION|Added the Metal Dummies.";
   7:"CHANGE|None.";
-  8:"FIXES|None.";
+  8:"FIXES|Fixed an issue where the sound section in settings said Visual Effects.";
   9:"REMOVAL|Removed Herobrine.";
 endTbl;
 
