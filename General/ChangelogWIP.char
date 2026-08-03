@@ -1,13 +1,16 @@
 changelog: startTbl;
-  1:"ADDITION|Added rifts that can spawn around the map";
+  1:"ADDITION|Added the Flame glove.";
+  1:"ADDITION|Added rifts that can spawn around the map.";
   2:"ADDITION|Added some UI enhancements.";
   3:"ADDITION|Added the Temporal bossfight.";
-  4:"ADDITION|Added 325 Killstreak Classic.";
+  4:"ADDITION|Added a passive ability (plague) to Infector.";
   5:"ADDITION|Added the Metal Island.";
   6:"ADDITION|Added the Metal Dummies.";
   7:"CHANGE|Changed the price of Temporal from 750 to 500.";
+  7:"CHANGE|Your health now increases as you get more kills to account for the passive abilities of Infector and Flame. (+10/9 HP every kill after 10 kills)";
   8:"FIXES|Fixed an issue where the sound section in settings said Visual Effects.";
   9:"FIXES|Fixed an issue where closing the variant GUI would result in a broken glove.";
+  9:"FIXES|Fixed the mobile UI being completely broken on tablet, making the game nearly unplayable.";
   10:"REMOVAL|Removed Herobrine.";
 endTbl;
 
