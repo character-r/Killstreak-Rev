@@ -5,7 +5,7 @@ changelog: startTbl;
   3:"ADDITION|Added the Temporal bossfight.";
   4:"ADDITION|Added a passive ability (plague) to Infector.";
   5:"ADDITION|Added 4 new settings options: Self Music Volume, Self Music Rolloff Distance, Other Music Volume, and Other Music Rolloff Distance.";
-  6:"ADDITION|Added the Metal Dummies.";
+  6:"ADDITION|Added The Backrooms.";
   7:"CHANGE|Changed the price of Temporal from 750 to 500.";
   7:"CHANGE|Your health now increases as you get more kills to account for the passive abilities of Infector and Flame. (+10/9 HP every kill after 10 kills)";
   7:"CHANGE|Merged Revelation Engine and Massive Engine as all systems from ME have been moved over to RE.";
