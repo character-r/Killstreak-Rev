@@ -1,20 +1,20 @@
 changelog: startTbl;
   1:"ADDITION|Added the Slapstreak glove.";
-  1:"ADDITION|Added the DISCOBALL glove.";
-  1:"ADDITION|Added the Golden glove.";
-  1:"ADDITION|Added the Parkour glove.";
-  1:"ADDITION|Added an indicator to the ability GUI to show you when you have an ability.";
-  2:"ADDITION|Added a WIP liquid glass option. (wont be finished until roblox adds UIBlur)";
-  2:"ADDITION|Added a soul effect for when you get kills.";
-  2:"ADDITION|Added a system to restore your kills when the servers reboot.";
-  7:"CHANGE|Moved some of the slapples.";
-  7:"CHANGE|Tweaked orb KBR.";
-  7:"CHANGE|Buffed 500 Killstreak Revengeance.";
-  7:"CHANGE|Buffed slapple rewards.";
-  8:"FIXES|Fixed an issue where the UIStroke on the overhead text just didn't work.";
-  9:"FIXES|Fixed an issue where phase 5 on Flame would make you permanently invincible.";
-  9:"FIXES|Fixed the Slapple animations.";
-  9:"FIXES|Fixed an issue with 500 Killstreak Classic where your arms were collidable.";
+  2:"ADDITION|Added the DISCOBALL glove.";
+  3:"ADDITION|Added the Golden glove.";
+  4:"ADDITION|Added the Parkour glove.";
+  5:"ADDITION|Added an indicator to the ability GUI to show you when you have an ability.";
+  6:"ADDITION|Added a WIP liquid glass option. (wont be finished until roblox adds UIBlur)";
+  7:"ADDITION|Added a soul effect for when you get kills.";
+  8:"ADDITION|Added a system to restore your kills when the servers reboot.";
+  9:"CHANGE|Moved some of the slapples.";
+  10:"CHANGE|Tweaked orb KBR.";
+  11:"CHANGE|Buffed 500 Killstreak Revengeance.";
+  12:"CHANGE|Buffed slapple rewards.";
+  13:"FIXES|Fixed an issue where the UIStroke on the overhead text just didn't work.";
+  14:"FIXES|Fixed an issue where phase 5 on Flame would make you permanently invincible.";
+  15:"FIXES|Fixed the Slapple animations.";
+  16:"FIXES|Fixed an issue with 500 Killstreak Classic where your arms were collidable.";
 endTbl;
 
 \\ TODO
