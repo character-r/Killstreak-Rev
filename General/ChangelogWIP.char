@@ -1,7 +1,12 @@
 changelog: startTbl;
   1:"ADDITION|Added the Slapstreak glove.";
+  1:"ADDITION|Added the DISCOBALL glove.";
+  1:"ADDITION|Added the Golden glove.";
+  1:"ADDITION|Added the Parkour glove.";
   1:"ADDITION|Added an indicator to the ability GUI to show you when you have an ability.";
   2:"ADDITION|Added a WIP liquid glass option. (wont be finished until roblox adds UIBlur)";
+  2:"ADDITION|Added a soul effect for when you get kills.";
+  2:"ADDITION|Added a system to restore your kills when the servers reboot.";
   7:"CHANGE|Moved some of the slapples.";
   7:"CHANGE|Tweaked orb KBR.";
   7:"CHANGE|Buffed 500 Killstreak Revengeance.";
